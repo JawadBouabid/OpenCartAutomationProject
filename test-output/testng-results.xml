@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-09T13:42:55 EDT" name="Default suite" finished-at="2023-10-09T13:43:07 EDT" duration-ms="12127">
+    <groups>
+    </groups>
+    <test started-at="2023-10-09T13:42:55 EDT" name="Default test" finished-at="2023-10-09T13:43:07 EDT" duration-ms="12127">
+      <class name="com.opencart.testcases.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testcases.LoginTest@34e9fd99]" started-at="2023-10-09T13:42:55 EDT" name="setUp" finished-at="2023-10-09T13:43:04 EDT" duration-ms="8834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginInWithValidEmailAndInvalidPassword()[pri:0, instance:com.opencart.testcases.LoginTest@34e9fd99]" started-at="2023-10-09T13:43:04 EDT" name="verifyLoginInWithValidEmailAndInvalidPassword" finished-at="2023-10-09T13:43:05 EDT" duration-ms="1008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginInWithValidEmailAndInvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testcases.LoginTest@34e9fd99]" started-at="2023-10-09T13:43:05 EDT" name="tearDown" finished-at="2023-10-09T13:43:07 EDT" duration-ms="2227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.opencart.testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

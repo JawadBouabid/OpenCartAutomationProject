@@ -1,0 +1,6 @@
+com\opencart\testcases\LoginTest.class
+com\opencart\testcases\RegisterTest.class
+com\opencart\testcases\AddToCartTest.class
+com\opencart\testcases\HomePageTest.class
+com\opencart\testcases\ProductDisplayTest.class
+com\opencart\testcases\SearchTest.class
